@@ -1,0 +1,30 @@
+﻿  customer.cpp
+C:\Users\Ricco Lim\OneDrive - National University of Singapore\CS2040C\Week 9\Assignment3Heap\heap.hpp(26,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ricco Lim\OneDrive - National University of Singapore\CS2040C\Week 9\Assignment3Heap\heap.hpp(24,36): message : while compiling class template member function 'void Heap<Customer>::_bubbleUp(int)'
+C:\Users\Ricco Lim\OneDrive - National University of Singapore\CS2040C\Week 9\Assignment3Heap\heap.hpp(66,30): message : while compiling class template member function 'void Heap<Customer>::insert(T)'
+          with
+          [
+              T=Customer
+          ]
+C:\Users\Ricco Lim\OneDrive - National University of Singapore\CS2040C\Week 9\Assignment3Heap\customer.cpp(77,17): message : see the first reference to 'Heap<Customer>::insert' in 'customerQueueTest'
+C:\Users\Ricco Lim\OneDrive - National University of Singapore\CS2040C\Week 9\Assignment3Heap\customer.cpp(21,17): message : see reference to class template instantiation 'Heap<Customer>' being compiled
+C:\Users\Ricco Lim\OneDrive - National University of Singapore\CS2040C\Week 9\Assignment3Heap\heap.hpp(34,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+C:\Users\Ricco Lim\OneDrive - National University of Singapore\CS2040C\Week 9\Assignment3Heap\heap.hpp(148,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ricco Lim\OneDrive - National University of Singapore\CS2040C\Week 9\Assignment3Heap\heap.hpp(144,27): message : while compiling class template member function 'void Heap<int>::printTree(void)'
+C:\Users\Ricco Lim\OneDrive - National University of Singapore\CS2040C\Week 9\Assignment3Heap\main.cpp(38,21): message : see the first reference to 'Heap<int>::printTree' in 'heapTest'
+C:\Users\Ricco Lim\OneDrive - National University of Singapore\CS2040C\Week 9\Assignment3Heap\main.cpp(29,15): message : see reference to class template instantiation 'Heap<int>' being compiled
+C:\Users\Ricco Lim\OneDrive - National University of Singapore\CS2040C\Week 9\Assignment3Heap\heap.hpp(148,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ricco Lim\OneDrive - National University of Singapore\CS2040C\Week 9\Assignment3Heap\heap.hpp(149,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ricco Lim\OneDrive - National University of Singapore\CS2040C\Week 9\Assignment3Heap\heap.hpp(26,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ricco Lim\OneDrive - National University of Singapore\CS2040C\Week 9\Assignment3Heap\heap.hpp(24,36): message : while compiling class template member function 'void Heap<int>::_bubbleUp(int)'
+C:\Users\Ricco Lim\OneDrive - National University of Singapore\CS2040C\Week 9\Assignment3Heap\heap.hpp(66,30): message : while compiling class template member function 'void Heap<int>::insert(T)'
+          with
+          [
+              T=int
+          ]
+C:\Users\Ricco Lim\OneDrive - National University of Singapore\CS2040C\Week 9\Assignment3Heap\main.cpp(33,18): message : see the first reference to 'Heap<int>::insert' in 'heapTest'
+C:\Users\Ricco Lim\OneDrive - National University of Singapore\CS2040C\Week 9\Assignment3Heap\heap.hpp(34,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  LINK : C:\Users\Ricco Lim\OneDrive - National University of Singapore\CS2040C\Week 9\Assignment3Heap\x64\Debug\Assignment3Heap.exe not found or not built by the last incremental link; performing full link
+  Assignment3Heap.vcxproj -> C:\Users\Ricco Lim\OneDrive - National University of Singapore\CS2040C\Week 9\Assignment3Heap\x64\Debug\Assignment3Heap.exe

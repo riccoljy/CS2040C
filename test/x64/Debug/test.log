@@ -1,0 +1,6 @@
+﻿  FileName.cpp
+C:\Users\Ricco Lim\OneDrive - National University of Singapore\CS2040C\test\FileName.cpp(10,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Ricco Lim\OneDrive - National University of Singapore\CS2040C\test\FileName.cpp(10,18): error C2065: 'bytes': undeclared identifier
+C:\Users\Ricco Lim\OneDrive - National University of Singapore\CS2040C\test\FileName.cpp(10,32): error C2059: syntax error: '>'
+C:\Users\Ricco Lim\OneDrive - National University of Singapore\CS2040C\test\FileName.cpp(10,34): error C2143: syntax error: missing ';' before '{'
+C:\Users\Ricco Lim\OneDrive - National University of Singapore\CS2040C\test\FileName.cpp(10,34): error C2447: '{': missing function header (old-style formal list?)

@@ -1,0 +1,5 @@
+﻿  Graph.cpp
+  simpleLinkedListTemplate.cpp
+  Generating Code...
+C:\Users\Ricco Lim\OneDrive - National University of Singapore\CS2040C\Week 11\assignment5\simpleLinkedListTemplate.h(49): warning C4715: 'List<nodeWeightPair>::current': not all control paths return a value
+  assignment5.vcxproj -> C:\Users\Ricco Lim\OneDrive - National University of Singapore\CS2040C\Week 11\assignment5\x64\Debug\assignment5.exe
